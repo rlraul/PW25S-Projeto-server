@@ -1,6 +1,6 @@
 package br.edu.utfpr.ProjetoFinalServer.controller;
 
-import br.edu.utfpr.ProjetoFinalServer.service.impl.CrudService;
+import br.edu.utfpr.ProjetoFinalServer.service.CrudService;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.PageRequest;
 import org.springframework.data.domain.Sort;

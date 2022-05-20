@@ -1,5 +1,6 @@
 package br.edu.utfpr.ProjetoFinalServer.service.impl;
 
+import br.edu.utfpr.ProjetoFinalServer.service.CrudService;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
 import org.springframework.data.domain.Sort;

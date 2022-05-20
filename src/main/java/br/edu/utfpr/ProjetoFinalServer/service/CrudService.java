@@ -1,4 +1,4 @@
-package br.edu.utfpr.ProjetoFinalServer.service.impl;
+package br.edu.utfpr.ProjetoFinalServer.service;
 
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
